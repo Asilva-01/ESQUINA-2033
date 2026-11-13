@@ -12,6 +12,7 @@ Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computa
 
 - **Mundo 2026** — A Vila das Acácias
 - **Mundo 2027** — A Terra da CBS
+- **Mundo 2027b** — O Vale do Simples
 
 Os demais mundos (até 2033) ainda estão em construção.
 
