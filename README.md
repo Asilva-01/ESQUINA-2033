@@ -15,6 +15,7 @@ Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computa
 - **Mundo 2027b** — O Vale do Simples
 - **Mundo 2028** — A Ponte da Convivência
 - **Mundo 2029** — Os Campos do Primeiro Décimo
+- **Mundo 2030** — O Brejo dos Vinte
 
 Os demais mundos (até 2033) ainda estão em construção.
 
