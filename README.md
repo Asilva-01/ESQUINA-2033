@@ -6,7 +6,7 @@ Esta é uma **versão de teste**, para jogar no navegador (inclusive no celular)
 
 ## Como jogar
 
-Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computador, use as setas ou WASD para andar e Espaço para interagir. No celular, use o controle na tela.
+Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computador, use as setas ou WASD para andar e Espaço para interagir. No celular, use o controle na tela. Na tela inicial, escolha o nível (fácil, médio ou difícil); dá para trocar depois em Mochila › Sistema.
 
 ## O que já dá para jogar
 
