@@ -16,6 +16,13 @@ Copyright © 2024 Richard Davey, Phaser Studio Inc.
 
 A cópia local está em `vendor/phaser.min.js`. O texto da licença está em `vendor/PHASER-LICENSE.txt`.
 
+### qrcode-generator 2.0.4 — MIT
+
+Copyright © 2009 Kazuhiko Arase
+<https://github.com/kazuhikoarase/qrcode-generator>
+
+A cópia local, sem alterações, está em `vendor/qrcode-generator.js`. O texto da licença está em `vendor/QRCODE-GENERATOR-LICENSE.txt`. Serve só para desenhar o QR do código de progresso, no próprio aparelho. «QR Code» é marca registrada da DENSO WAVE INCORPORATED.
+
 ### Pixelify Sans — SIL Open Font License 1.1
 
 Copyright 2021 The Pixelify Sans Project Authors

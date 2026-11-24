@@ -6,7 +6,7 @@ Esta é uma **versão de teste**, para jogar no navegador (inclusive no celular)
 
 ## Como jogar
 
-Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computador, use as setas ou WASD para andar e Espaço para interagir. No celular, use o controle na tela. Na tela inicial, escolha o nível (fácil, médio ou difícil); dá para trocar depois em Mochila › Sistema.
+Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computador, use as setas ou WASD para andar e Espaço para interagir. No celular, use o controle na tela. O progresso fica salvo só no navegador; para continuar em outro aparelho, use «Levar meu progresso» e leia o QR ou cole o código no outro aparelho. Na tela inicial, escolha o nível (fácil, médio ou difícil); dá para trocar depois em Mochila › Sistema.
 
 ## O que já dá para jogar
 
@@ -28,6 +28,6 @@ O conteúdo é atualizado com base nas normas oficiais publicadas. Ao abrir o jo
 
 ## Créditos e licença
 
-A arte, o texto, o código do jogo e o som são originais deste projeto. O motor usa **Phaser 3.90.0**, distribuído sob a licença MIT (Copyright © 2024 Richard Davey, Phaser Studio Inc.). A cópia local está em `vendor/phaser.min.js` e o texto da licença em `vendor/PHASER-LICENSE.txt`.
+A arte, o texto, o código do jogo e o som são originais deste projeto. O motor usa **Phaser 3.90.0**, distribuído sob a licença MIT (Copyright © 2024 Richard Davey, Phaser Studio Inc.). A cópia local está em `vendor/phaser.min.js` e o texto da licença em `vendor/PHASER-LICENSE.txt`. O QR do código de progresso usa **qrcode-generator 2.0.4** (MIT, Copyright © 2009 Kazuhiko Arase), em `vendor/qrcode-generator.js`, com a licença em `vendor/QRCODE-GENERATOR-LICENSE.txt`.
 
 As fontes Pixelify Sans e Nunito Sans estão sob a SIL Open Font License 1.1. A lista de origens e licenças está em [`CREDITOS.md`](CREDITOS.md).
