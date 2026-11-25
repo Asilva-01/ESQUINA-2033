@@ -17,6 +17,7 @@ Abra a [versão de teste](https://asilva-01.github.io/ESQUINA-2033/). No computa
 - **Mundo 2029** — Os Campos do Primeiro Décimo
 - **Mundo 2030** — O Brejo dos Vinte
 - **Mundo 2031** — A Serra dos Trinta
+- **Mundo 2032** — A Torre dos Quarenta
 
 Os demais mundos (até 2033) ainda estão em construção.
 
